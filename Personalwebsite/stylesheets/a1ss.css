@@ -1,0 +1,166 @@
+/*
+a1ss.css
+Haley Ankenbauer
+*/
+
+/* selector { argument: attribute; } */
+
+body {
+	color:				black;
+	margin:				auto;
+	font-weight:		bold;
+	font-family:		Calibri, Helvetica, Verdana, Arial, sans-serif;
+	background-color:	#ffffff;
+}
+
+#header {
+	font-size:			400%;
+	text-align:			center;
+	background-color:	#C0C0C0;
+	height:				250px;
+	margin-top:			-100px;
+}
+
+
+#main {
+	margin:				auto;
+	margin-top:			100px;
+	font-size:			200%;
+	text-align:			center;
+	margin-bottom:		-200px;
+}
+
+#centerimage {
+	float:				left;
+	margin-left:		175px;
+	height:				500px;
+	width:				500px;
+}
+
+#centerimage img {
+	height:				500px;
+	width:				500px;
+	margin-top:			-75px;
+}
+
+#footer {
+	text-align:			center;
+	background-color:	#C0C0C0;
+	margin-top:			400px;
+	height:				215px;
+}
+
+#footer img {
+	height:				100px;
+	width:				100px;
+	border:				none;
+	margin-top:			30px;
+}
+
+#callimage {
+	color:				black;
+	float:				left;
+	position:			relative;
+	left:				280px;
+	text-align:			center;
+	display:			inline-block;
+}
+
+#emailimage  {
+	position:			relative;
+	text-align:			center;
+	display:			inline-block;
+}
+
+
+#linkedinimage {
+	position:			relative;
+	text-align:			center;
+	display:			inline-block;
+	float:				right;
+	right:				280px;
+}
+
+#linkedinimage img {
+	border-radius:		10px;
+}
+
+
+#resumebutton img {
+	float:				right;
+	margin-right:		200px;
+	margin-top:			250px;
+}
+
+#maintext {
+	font-size:			70%;
+	text-align:			left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
